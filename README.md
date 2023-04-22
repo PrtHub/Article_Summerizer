@@ -1,4 +1,4 @@
-# Video_Summerizer
+# Article_Summerizer
 Build with Rapid API
 
 This project was bootstrapped with React, Vite, Tailwind & API.
